@@ -1,4 +1,4 @@
-entrypoint = "hello2/main.go"
+entrypoint = "hello3/main.go"
 
 modules = ["go"]
 
