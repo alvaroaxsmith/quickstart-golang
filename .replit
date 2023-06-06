@@ -1,4 +1,4 @@
-entrypoint = "scan/main.go"
+entrypoint = "func/main.go"
 
 modules = ["go"]
 

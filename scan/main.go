@@ -9,7 +9,7 @@ func main() {
 
   fmt.Println("1 - Start monitoring")
   fmt.Println("2 - Show logs")
-  fmt.Println("3 - Exit")
+  fmt.Println("0 - Exit")
 
   var comando int
 
