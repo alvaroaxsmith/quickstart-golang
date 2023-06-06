@@ -7,13 +7,13 @@ func main() {
   
   fmt.Println("Hello",name)
 
-  fmt.Print("1 - Start monitoring")
-  fmt.Print("2 - Show logs")
-  fmt.Print("3 - Exit")
+  fmt.Println("1 - Start monitoring")
+  fmt.Println("2 - Show logs")
+  fmt.Println("3 - Exit")
 
   var comando int
 
   fmt.Scan(&comando)
 
-  fmt.Println(comando)
+  fmt.Println("you chose command",comando)
 }
