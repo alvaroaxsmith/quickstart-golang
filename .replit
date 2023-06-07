@@ -1,4 +1,4 @@
-entrypoint = "src/8-array/main.go"
+entrypoint = "src/main.go"
 
 modules = ["go"]
 
